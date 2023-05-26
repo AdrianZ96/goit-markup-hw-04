@@ -136,15 +136,18 @@ a {
   border-radius: 4px;
 }
 .box-icons{
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width:170px;
   height: 92px;
   border: 1px solid #afb1b8;
   fill:  #AFB1B8;
   border-radius: 5%;
-  
+  box-sizing: border-box;
 }
-.box-icons:hover{
+.box-icons:hover,
+.box-icons:focus{
   fill: #2196f3;
   border-color:  #2196f3;
 }
@@ -169,12 +172,10 @@ a {
 }
 /** Wnętrze Stron **/
 .nav-icons{
-  width: 16px;
-  height: 12px;
   margin-right: 10px;
 }
 .nav-icons:hover,
-.nav-icons:active{
+.nav-icons:focus{
   color: var(--focus-active-hovercolor);
 }
 .upper-body {
@@ -207,7 +208,7 @@ a {
   border-top: none;
 }
 .pictures:hover,
-.pictures:active{ 
+.pictures:focus{ 
   border: 1px solid #EEEEEE;
 box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
 cursor: pointer;
@@ -215,7 +216,7 @@ cursor: pointer;
 .mainbgcolor {
   background-color: #2f303a;
   background-image: linear-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.5)),url(../images/main-bg-picture.jpg);
-  background-size: cover;
+  background-size: 1600px;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
@@ -243,17 +244,9 @@ cursor: pointer;
   border-radius: 50%;
 }
 .team-social-media:hover,
-.team-social-media:active{
+.team-social-media:focus{
   background-color: #2196f3;
   fill: #fff;
-}
-.icons-in-pic{
-  width: 20px;
-  height: 20px;
-  fill:  #AFB1B8;
-}
-.icons-in-pic:hover{
-  fill: #fff; 
 }
 .text-title {
   font-weight: 700;
@@ -367,14 +360,6 @@ cursor: pointer;
   list-style: none;
   padding: 0;
 }
-.icons-link{
-  fill:  #AFB1B8;
-  
-} 
-.icons-link:hover,
-.icons-link:active{
-  fill:#fff
-}
 /** Zawartość Stopki **/
 .foot {
   color: rgba(255, 255, 255, 0.6);
@@ -452,8 +437,27 @@ cursor: pointer;
   display: block;
   transform: translate(25%, 25%);
 }
-.social-media:hover{
+.social-media:hover,
+.social-media:focus{
   fill: #fff;
+  background-color: #2196f3;
+  cursor: pointer;
+}
+.social-media-ft{
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  border-radius: 50%;
+  fill: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+.social-media-ft use{
+  display: block;
+  transform: translate(25%, 25%);
+}
+.social-media-ft:hover,
+.social-media-ft:focus{
   background-color: #2196f3;
   cursor: pointer;
 }

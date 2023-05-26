@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
-    <symbol id="icon-Logo6" viewBox="0 0 57 32">
-      <path d="M28 15v-4h3v1h-1v-1h-1v3h1v-1h1v2h-3zM32 15v-4h2l1 1v2l-1 1h-2zm2-1v-3h-1c-1 0 0 0 0 0v3h1zM36 11h1v3l1-3h1v4h-1v-3 3h-1l-1-3v3-4zM40 11h2l1 1-1 1h-1v2h-1v-4zm1 1a1 1 0 0 0 1 0v-1h-1v1zM44 11h1l1 4h-1v-1h-1v1h-1l1-4zm1 2v-1l-1 1h1zM47 11h1l1 2v-2h1v4h-1l-1-3v3h-1v-4zM51 13l-1-2h1l1 1v-1h1l-1 2v2h-1v-2zM30 17h-1v2-2h-1 2zM32 19v-1h-1l-1 1 1-2 1 2zm-1-1h1l-1-1v1zM34 19v-1h1v1a1 1 0 0 1-1 0h-1v-2a2 2 0 0 1 1 0 1 1 0 0 1 1 0h-1a1 1 0 0 0-1 0v2h1zM37 19h1-2v-2h1v2zM39 19h-1v-2h1v2zM40 17l1 1v-1 2l-1-2v2-2zM44 17h-1v1h1-1v1h1-2v-2h2zM11 5l14 3v12l-14-4V5zm-1-1v13l16 4V7L10 4z"/>
-      <path d="M19 27 3 23V10l16 4v13z"/>
-      <path d="m11 4 13 4-6 5L5 9l6-5zm-1 0-7 6 16 4 7-7-16-3zM20 26l6-5-6-2v7z"/>
+    <symbol id="icon-Logo2" viewBox="0 0 24 32">
+      <path d="M10 2a15 15 0 0 0-1 0L2 4v13h1a24 24 0 0 1 6-1v2a20 20 0 0 0-9 2V3a18 18 0 0 1 10-3 19 19 0 0 1 3 1v2a14 14 0 0 0-3-1zm3 2h2a19 19 0 0 0 9-2v17a18 18 0 0 1-13 2V4a14 14 0 0 0 2 0zm9 0h-1l-1 1a21 21 0 0 1-7 0v14h2a16 16 0 0 0 7-1V4zM2 26a1 1 0 0 0-1 0 1 1 0 0 0-1 0v4h1a1 1 0 0 0 1-1H1v-3 1h1v-1zM5 26a1 1 0 0 0-1 0v4a1 1 0 0 0 1 0 1 1 0 0 0 1-1v-2l-1-1zm0 3H4v-3h1v3zM10 30v-4H9v2l-1-2H7v4h1v-3 2h1v-2 3h1zM13 26h-1v4-2h1l1-1a3 3 0 0 0-1-1zm0 1v1h-1v-2h1v1zM16 26l-1 4v-1h1v1h1l-1-4zm0 2v-1 1zM20 28l-1-2h-1v4h1v-3l1 3v-4 2zM24 26l-1 1v-1h-1l1 2v2-2l1-2zM0 31v1-1h1-1zM2 31v1h1v-1H2zm0 0h1-1zM5 31v1l-1-1h1-1v1h1v-1zM7 31v1h1-1v-1zM9 31v1-1zM11 31v1-1 1-1zM13 31h1-1 1-1v1h1-1v-1zM17 31v1-1 1h1v-1h-1zM19 31h1-1 1-1v1h1-1v-1zM22 31h-1v1-1h1v1-1zm0 0h-1 1zM24 31h-1v1h1v-1z"/>
     </symbol>
-    <symbol id="icon-Logo5" viewBox="0 0 57 32">
-      <path d="M14 24v1h-2v-3h2v2zm-2-1h2l-1-1h-1v1zm2 2v-1c0-1 0 0 0 0h-2v1h2zM17 25v-1h-1v1h-1v-3h3v2h-1l1 1h-1zm-1-1h1v-1h-1v1zM21 25h-2l1-3h1l1 3h-1zm0-1v-1l-1 1h1zM26 25l-2-2v2h-1v-3h1l2 2v-2 3zM30 24v1h-3v-3h3v1a2 2 0 0 1 0 1zm0 0v-1h-2v2h1l1-1zM22 4s9 3 9 7v8s-9-3-9-8V4zM39 18c2-2 4-2 6-2v-3c-2 1-4 2-6 5z"/>
-      <path d="m38 18 7-5V5s-13 5-13 12v11l2-1v-1c0-3 2-6 4-8z"/>
-      <path d="M37 22v-2a10 10 0 0 0-2 7l2-1v-4zM37 22l1 3c3-2 7-5 7-8v-1l-7 3-1 3z"/>
-    </symbol>
-    <symbol id="icon-Logo4" viewBox="0 0 57 32">
-      <path d="m13 11-2 2 2 2 2-2-2-2zM30 11l-2-5c-1-2-3-1-5-1l-4 1-2 5v8s13-1 13-8zM6 22l1 3 4 1 3-1 1-3v-6s-9 1-9 6zm5 1H9v-1l1-1h1l1 1c1 1 0 0 0 0v1h-1zM20 23h-1v1-3h1v1h-1 1v1zm2-1v1l-1 1v-1h-1v-1a1 1 0 0 1 1-1h1v1zm0 0h-1v1h1v-1zm2 1h-1v-2h1v1h-1l1 1c0 1 0 0 0 0l-1 1v-1h-1 2zm2-1v2h-1v-2h-1v-1h2v1zm2 1h-1 1v1h-1v-3h1v1h-1 1v1zm1 0v1h-1v-3h2v3l-1-1zm0-1h1-1zm3 1v1h-1v-3h1l1 1v1h-1zm0-1zm3 1h-1 1v1h-2v-3h2v1h-1 1v1zm2-1h-1v2-2h-1v-1h2v1zm1 1h-1 2v1h-2v-3h2v1h-2 1v1zm2 0h-1v1-3h1l1 1h-1v1l1 1h-1v-1zm-1-1h1-1zm3 1-1-1v-1h1v1h1-2 1v1h1-1v1h-1v-1h1z"/>
-    </symbol>
-    <symbol id="icon-Logo3" viewBox="0 0 57 32">
-      <path d="M19 26h1l-1 1h-1v-2a1 1 0 0 1 1 0h1-2v1a1 1 0 0 0 1 0zM23 26h-1v1h-1v-2h1a1 1 0 0 1 1 1zm-1 0v-1h-1v1h1zM25 26l1-1v2-2l-1 1-1-1v2-2l1 1zM28 26v1-2h1a1 1 0 0 1 0 1h-1zm0 0h1v-1h-1v1zM32 27h-1v-1h-1v1l1-2 1 2zm-2-1h1v-1l-1 1zM33 25l1 1v-1h1v2h-1l-1-2v2-2zM37 26v1h-1v-2h1a1 1 0 0 1 0 1v-1h1l-1 1zM25 21v1l5-4 2-5-2-2-1 6-4 4z"/>
-      <path d="m24 21 5-5v-6l-3-2c1 2 2 4 1 7l-3 6zM35 15l-4 5-2 1 4-2 3-3-1-1z"/>
-      <path d="m34 15-2-2-1 5-5 4 2-1 4-2 2-4zM24 6l-2-1c-2 0-3 1-4 3l-2 5 2 5c1 1 3 3 5 3 2-2 4-4 4-7l-3-8zM39 14l-3-6c-2-2-4-2-7-2h-4l13 11 1-3z"/>
-    </symbol>
-    <symbol id="icon-Logo2" viewBox="0 0 56 32">
-      <path d="M26 3a12 12 0 0 0-1 0l-6 2v12l1-1a20 20 0 0 1 5-1v2a17 17 0 0 0-7 2V4a16 16 0 0 1 8-2 17 17 0 0 1 3 0v2h-2l-1-1zm3 2h1a16 16 0 0 0 8-2v15a16 16 0 0 1-11 1V5a12 12 0 0 0 2 0zm7 0-2 1a18 18 0 0 1-5 0v12a12 12 0 0 0 4 0l3-1V5zM19 24a1 1 0 0 0-1 0h-1v3h1v1-1a1 1 0 0 0 1 0v-1h-1v1-3 1h1a1 1 0 0 0 0-1zM22 24h-2v3h1a1 1 0 0 0 1 0v-3zm0 3h-1v-3l1 1v2zM26 27v-3h-1v2l-1-2v3-2l1 2v-2 2h1zM29 24h-2v3h1v-1h1v-1a3 3 0 0 0 0-1zm0 1-1 1v-2l1 1zM31 24l-1 3h2l-1-3zm0 2v-1 1zM35 26l-1-2h-1v3h1v-2l1 2v-3 2zM38 24l-1 1v-1h-1l1 2v1h1v-3zM17 29h1v-1h-1v1zM19 28v1h1v-1h-1zm0 1h1-1zM21 29h1-1 1l-1-1v1h1-1zM24 28h-1v1h1v-1zM25 28v1-1zM27 29v-1 1-1 1zM29 29v-1h-1v1h1zM32 29v-1 1h1v-1h-1v1zM34 29h1v-1h-1v1h1-1zM36 29v-1 1zm0 0zM38 29v-1 1z"/>
-    </symbol>
-    <symbol id="icon-Logo1" viewBox="0 0 56 32">
-      <path d="m20 4 4 4h-7v16h18v-6l3 3V4H20zm14 14L24 8h10v10zm-3 4H20V11v10h11v1zm-9 5v1l-1-1 1 1v1-1l1-1h-1zm1 2v-1h1v1-2h-1v2zm0-2 1 1h-1v-1zm2 1 1 1v-1 1h1l-1-1v-1h-1v1zm1 0h-1 1zm0-1h-1 1zm3 1h-1v-1h1-2v1h1v1l1-1zm2 0v-1h-2v1l1 1v-1h1zm-1-1v1h-1l1-1c1 0 0 0 0 0z"/>
+    <symbol id="icon-Logo1" viewBox="0 0 27 32">
+      <path d="m4 0 5 5H0v21h23v-8l4 5V0H4zm18 18L9 5h13v13zm-4 5H4V9h1v13h13v1zM7 29v1l-1-1v3h1v-1l1-2H7zm1 3v-1h1v1-3H8l-1 3h1zm0-2 1 1H8v-1zm3 1h-1 1v1l1-1v1-2 1l-1-1h1v-1h-1v2zm1 0h-1 1zm-1-1v-1 1h1-1zm4 1h-1v-1h1v-1h-1v1h-1v1h1v1l1-1zm3 0v-1h-1v-1h-1v2l1 1v-1zm-1-1v1h-1v-1h1z"/>
     </symbol>
     <symbol id="icon-smartphone" viewBox="0 0 20 32">
       <path d="M17 0H3C1 0 0 1 0 3v26c0 2 1 3 3 3h14c2 0 3-1 3-3V3c0-2-1-3-3-3zM3 2h14l1 1v21H2V3l1-1zm14 28H3l-1-1v-3h16v3l-1 1z"/>
       <path d="M5 27v2H3v-2h2z"/>
+    </symbol>
+    <symbol id="icon-Logo6" viewBox="0 0 67 32">
+      <path d="m34 15-1-1v-2l1-2h3v2h-1v-1h-1v4h1v-1h1v1l-2 1-1-1zM39 15l-1-1v-2l1-2h3v5l-2 1-1-1zm2 0v-4h-2v3l1 1h1zM43 10h2l1 4 1-4h1v6h-1v-4l-1 4h-1l-1-4v4h-1v-6zM49 10h2c1 0 2 0 2 2l-2 1v3h-2v-6zm2 2a1 1 0 0 0 1 0v-1h-1v1zM55 10h1l1 6h-1v-2h-1v2h-2l2-6zm1 4-1-3v3h1zM58 10h1l2 3v-3h1v6h-1l-2-4v4h-1v-6zM64 13l-1-3h1l1 2 1-2h1l-2 3v3h-1v-3zM36 18h-1v3h-1v-3h-1 3zM39 21h-1v-1h-1l-1 1 1-3 2 3zm-2-1h1l-1-1v-1 2zM41 21a1 1 0 0 0 0-1h1-1 1v1a2 2 0 0 1-1 0h-1v-1h-1v-1h1v-1a2 2 0 0 1 1 0 2 2 0 0 1 1 0v1h-1a2 2 0 0 0 0-1l-1 1v1a1 1 0 0 0 1 1zM45 20h1v1h-2v-3h1v2zM47 21v-3 3zM49 18l2 2v-2 3l-2-2v2-3zM54 18h-1v1h1v1h-1 1v1h-2v-3h2zM11 2l18 4v16l-18-4V2zm-1-1v17l20 5V6L10 1z"/>
+      <path d="M21 32 0 27V9l21 5v18z"/>
+      <path d="m10 2 18 4-8 7L2 8l8-6zm0-1L0 9l21 5 9-8-20-5zM22 31l8-8-8-2v10z"/>
+    </symbol>
+    <symbol id="icon-Logo5" viewBox="0 0 43 32">
+      <path d="M3 26v2H0v-4h3v1c0 1 0 0 0 0v1zm-2 0h1v-1H1v1zm1 1h1c1 0 0 0 0 0l-1-1H1v1h1c0 1 0 0 0 0zM7 28l-1-1v1H5v-4h3v2H7l1 2H7zm-1-2 1-1H6v1zM12 27h-2v1H9l2-4h1l2 4h-1l-1-1zm0 0-1-2v2h1zM19 28h-1l-2-3v3h-1v-4h1l2 3v-3h1v4zM24 27l-1 1h-3v-4h3l1 1a2 2 0 0 1 0 2zm-1 0v-2h-2v2h2zM13 1s12 4 11 10v10s-11-4-11-10V1zM35 18l8-2v-3c-4 1-6 3-8 5z"/>
+      <path d="M34 19c2-3 5-6 9-7V3S26 9 26 17v14h2v-2c0-4 2-7 6-10z"/>
+      <path d="m32 25 1-3a13 13 0 0 0-4 8l3-1v-4zM33 25v3c5-2 10-6 10-11-4 0-7 1-9 4l-1 4z"/>
+    </symbol>
+    <symbol id="icon-Logo3" viewBox="0 0 34 32">
+      <path d="m6 31-1 1H4l-1-1a1 1 0 0 1 0-1h1v-1a2 2 0 0 1 1 0h1v1H5a1 1 0 0 0 0-1l-1 1v2h1a1 1 0 0 0 1-1zM10 31v1c0 1 0 0 0 0H8l-1-1v-1h1v-1h2v1a1 1 0 0 1 0 1zm0 0v-1a1 1 0 0 0-1 0H8v1a1 1 0 0 0 0 1h1l1-1zM14 31l1-2v3-2l-1 1-2-1v2-3h1l1 2zM18 31v1h-1v-3h2v1a1 1 0 0 1 0 1h-1zm0 0h1v-1l-1-1v2zM23 32v-1h-2v1h-1l2-3 1 3zm-2-1h1v-1l-1 1zM25 29l2 2v-2 3l-2-2v2-3zM30 31v1-1l-1-2 1 1a2 2 0 0 1 0 1v-1l1-1h1l-2 2zM14 25l7-5c2-2 2-5 2-8l-3-3c1 3 1 6-1 9l-5 7z"/>
+      <path d="M12 24c3-1 5-4 7-7s1-5 0-8l-4-4a16 16 0 0 1-3 19zM27 15c0 3-2 6-5 8l-2 1c2 0 4-1 5-3l4-4-2-2z"/>
+      <path d="m27 15-3-3-2 8c-1 3-4 3-7 5h2l6-4 4-6zM13 3l-3-2C7 1 5 3 3 5s-2 5-2 7c0 3 1 6 3 8l7 4c3-3 5-6 5-10s-1-8-3-11zM34 14c0-3-2-6-5-9s-6-3-10-3l-5 1 19 16 1-5z"/>
+    </symbol>
+    <symbol id="icon-Logo4" viewBox="0 0 65 32">
+      <path d="M10 10c-2 0-3 1-3 3s1 3 3 3 3-1 3-3-1-3-3-3zM34 9l-2-6c-1-2-5-2-7-2-3 0-5 0-7 2l-3 6v12s19-1 19-12zM0 26l2 4a7 7 0 0 0 9 0c2-1 2-3 2-4v-9S0 18 0 26zm7 1H6l-1-1v-2h2l1 1a1 1 0 0 1 0 2H7c-1 0 0 0 0 0zM20 26h-1v2h-1v-4h2v1h-1v1h1zm3 0v1l-1 1-1-1c0-1 0 0 0 0v-2a1 1 0 0 1 1-1h1v2zm0 0-1-1c-1 0 0 0 0 0h-1v2h1l1-1zm3 1-1-1h-1v-2h2v1h-2 1v1h1v1l-1 1-1-1h2zm3-2h-1v3h-1v-3h-1v-1h3v1zm2 1h-1v1h2v1h-3v-4h3v1h-2v1h1zm2 0v2h-1v-4h1l1 1c0 1 0 0 0 0v1l1 2h-1l-1-2zm0 0h1v-1h-1v1zm4 0v2h-1v-4h2v1h1l-1 1h-1zm0 0h1v-1h-1v1zm4 0h-1v1h1v1h-2v-4h2v1h-1v1h1zm3-1h-1v3h-1v-3h-1v-1h3v1zm2 1h-1v1h2v1h-2v-4h2v1h-2v1h1zm2 0v2h-1v-4h1l1 1c0 1 0 0 0 0v1l1 2h-1l-1-2zm0 0h1v-1h-1v1zm4 1v-1h-1l-1-1 1-1h1v1h-1v1h1v1l-1 1-1-1h2z"/>
     </symbol>
     <symbol id="icon-twitter-1" viewBox="0 0 32 32">
       <path d="m32 6-4 1c2-1 3-2 3-4l-4 2a7 7 0 0 0-11 6C10 11 5 8 2 4a7 7 0 0 0 2 9l-3-1c0 3 3 6 6 7a7 7 0 0 1-3 0c0 2 3 4 6 4a13 13 0 0 1-10 3A19 19 0 0 0 29 9l3-3z"/>
